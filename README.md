@@ -8,3 +8,8 @@ Udało się częściowo, bo szybko nauczyli się proces Cerberka kasować.
 Dlatego pojawił się Znikacz... Ale to nie było 100% skuteczne rozwiązanie, a już nie
 chciało mi się robić serwisu w Delphi. Wysiłek byłby spory, a licencja tego środowiska 
 wykluczała nawet okazyjną sprzedaż.
+
+Jeśli masz Delphi w odpowiedniej wersji to powinno ci się to udać skompilować i użyć nawet na Windows 10
+
+**COFFEE**
+https://www.buymeacoffee.com/wborkowsk
