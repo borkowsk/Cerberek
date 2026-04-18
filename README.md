@@ -21,4 +21,6 @@ wykluczała nawet okazyjną sprzedaż.
 Jeśli masz Delphi w odpowiedniej wersji to powinno ci się to udać skompilować i użyć nawet na Windows 10
 
 **COFFEE**
-https://www.buymeacoffee.com/wborkowsk
+
+[☕☕☕ Coffee](https://buycoffee.to/adalbertus)<br>
+[🪙 🪙  PayPal](https://www.paypal.com/paypalme/wborkowsk)
